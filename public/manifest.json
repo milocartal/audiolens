@@ -1,0 +1,22 @@
+{
+  "name": "Audiolens",
+  "short_name": "Audiolens",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#FFFFFF",
+  "background_color": "#FFFFFF",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/logo-audiolens.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/logo-audiolens.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
